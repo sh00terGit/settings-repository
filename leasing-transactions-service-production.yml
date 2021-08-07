@@ -1,0 +1,9 @@
+spring:
+  redis:
+    host: localhost
+    port: 6379
+    password: '{cipher}AQBE53SbqAT5zph8Vfnxiu0HVP6p9BhajMkDXL3MtLY54JNMWnGk9+O4HH4eKoPuCw7Ky3W4C9XSpHfqibcUix6/XIfVKj9VLZI5hb952wdXxWBRaCYhWn7FRnRRsCar5cC9cCHKBCtCydSkluvdR7rYRMmr0MMc2KruxHYrQyPhnQb49pwirRf1saTfQyAMCxKap+78cUJxjUgQVLPmjST8+6uTBdDUJ9aARXzEzO21Q04z9G8DHSkm/cuqS6dqwSgYPskAdO6fxIxe9e9FbyLX7M/5b37YaI/9YM35RMgZyqEG3wyVVUnzWq59B1lP0qwHtp/pKFJZmQXOXLPKm30WXZICi3tsZFRnKWzj4G47jZpuk/Ei3BUg8wJeE47iFmMTOgskBAIX11zLaWSRsbIe'
+
+interaction:
+  encryptor:
+    baseUri: http://localhost:9001/encryptor

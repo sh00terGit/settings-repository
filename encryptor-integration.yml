@@ -1,0 +1,8 @@
+interaction.encryptor.initialVector: 1c740a14eb8fab50
+
+key.store:
+  location: ${spring.cloud.config.uri}/any/any/integration/keystore/integration/encryptor-secret.pfx
+  store-password: '{cipher}AQBBIa+YpE7az7lStY426A+bYqCaw+7YFNUCyy9UZNDbPVoGSKD4y1MQpf/XhHh9Ge+79/AWmniU1QUpcFyqgjtvbjV9udEv+YKb3vJD69ubVPgt/v6//9mO4+PIAgokqtqASF1op2UXR88NhHbBbgc9pCbob1muNsteyIggaS6X7FY6DoZrEZJDEMHMr58CM2tu0mxdNOzpfXsRslfAAxoJWPmL73W3mBBd6EorA20+WYGjmH9BlE2NOmaTWzSlKCZcT2XG4THIjHklo2zLIvEr53B9XqqFfLIUwx/k2c9oSNWEbFNhYrGpVHJjSA36RUWMYI7ln2Bve+m3Y0rnWNgqgLjo1nt3sfWiUUpAuNhr6zUua37JMwz5bRUquxrKLZI48fMx+5cCndx/5NwxDUViRGa0wTbGpGyWazmk+IcRjQ=='
+  key-alias: key_1
+
+# http://localhost:8888/alfa-leasing-config-server/any/any/integration/keystore/integration/encryptor-secret.pfx

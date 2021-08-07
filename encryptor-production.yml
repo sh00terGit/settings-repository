@@ -1,0 +1,7 @@
+interaction.encryptor.initialVector: b3e14d4a8ab117e7
+
+key.store:
+  location: http://git.moscow.alfaintra.net/projects/ALFA-LEASING/repos/alfa-leasing-settings/raw/keystore/production/encryptor-secret.pfx?at=refs/heads/production
+  store-password: '{cipher}AQBOgXSD+dpc4/ia5KBotxM2TeJin0DJPSiqUGcdaaFPHQeLLR1XmAK0QehjCsb3fSGyJhfY8FhNYvq7AsfN1TTkSUI3wk218CNrdenY+H2Y01f/e4sGCe9h61L7EvCouwjMFxrYngOyXxU4fwEhY0ucO3Xx6gyxUdpGiV8RizQvIu/qwFDI+T9j4zyWZr+7FbQucXX6hcjiEXh1U6QcNvxNyTuAl0EZaWUdtLqymMDiMSGjquYds7LBAKwsybBwdsA8J3URE+e7RKE08IEqDg5X1iEjK99g2PEvVEh7UpquTDqdWJ6XvrbbQkwIg0t6HykOl+e+lkF8U/9/w9LYIUbyFnVNH6P1FyNGEKyzFjbxtuWpZ231dQPAyKb63iJ0Md4doRdk38Go7QVXux0xKhNXhRSId/V3x4JG64qioMZ/BA=='
+  key-alias: key_1
+

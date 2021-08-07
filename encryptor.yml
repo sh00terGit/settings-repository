@@ -1,0 +1,9 @@
+interaction:
+  encryptor:
+    transformation: AES/CBC/PKCS5PADDING
+    initialVector: 1234567890123456
+
+key.store:
+  location: classpath:/keystore/encryptor-development.pfx
+  store-password: '{cipher}AQCUCOr1zmo34EIkvPAXwxA6oS7JRvW0fLp0PkCZ4+VERdIiXdeQQwUjjbLnGtpXTxpcrdznioI//dJ3W+CRSAgt6m/buIRRoKGosxJrC9kvn1Sg35rRPVJSV3IIfyv8XXPjpD0fQ+lUR4Hu6R90uX9RYqAI1z2TukYscJRTzw10pmXtYMuOViNHwRnnNOpHyogeAb675GVmJyaT8iJiDbioOjw5AmUgw/IpqgBB+X7+9OpYwihLF9w47KK/P2XVTBJOLfPkKa8H5Bi04JNBZRa2s75wQ503SguHof8u22f/e0b431sKvbtaqO1IdBft9fC8Pxll9mBt7M0Ao3kP2GB/flcIzIbpxd9vtAxRpTZDWGFBvukQxRg38ZaGNxn2fEI='
+  key-alias: encryptor
